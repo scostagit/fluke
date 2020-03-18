@@ -1,0 +1,14 @@
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\bin\Debug\netcoreapp2.1\Fluke.WebApi.deps.json
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\bin\Debug\netcoreapp2.1\Fluke.WebApi.runtimeconfig.json
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\bin\Debug\netcoreapp2.1\Fluke.WebApi.runtimeconfig.dev.json
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\bin\Debug\netcoreapp2.1\Fluke.WebApi.dll
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\bin\Debug\netcoreapp2.1\Fluke.WebApi.pdb
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.csprojResolveAssemblyReference.cache
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.csproj.CoreCompileInputs.cache
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.RazorAssemblyInfo.cache
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.RazorAssemblyInfo.cs
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.AssemblyInfoInputs.cache
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.AssemblyInfo.cs
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.RazorTargetAssemblyInfo.cache
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.dll
+D:\Sergio\Inteviews\2020\Fluke\backend\Fluke.WebApi\Fluke.WebApi\obj\Debug\netcoreapp2.1\Fluke.WebApi.pdb

@@ -1,0 +1,7 @@
+tr {
+    cursor: pointer;
+}
+
+.closed{
+    background-color:#ffe6e6 !important;
+}

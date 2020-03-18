@@ -1,0 +1,9 @@
+.form  div{
+    display: inline;
+    padding: 5%;
+    margin: 1%;
+}
+
+.number{
+    width: 50px;
+}
